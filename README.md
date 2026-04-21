@@ -27,6 +27,8 @@ lines.
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by:S.Kowshik Ram
 RegisterNumber:212225230143
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
